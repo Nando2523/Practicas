@@ -379,6 +379,14 @@ p{
     line-height: 2.2rem;
 }
 
+.list{
+  font-size: 1.5rem;
+}
+
+.list ul{
+  list-style: circle;
+}
+
 .index a,
 .enlace{
     color: #000000;
